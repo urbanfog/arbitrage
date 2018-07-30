@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 # arbitrage
@@ -26,6 +25,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-
->>>>>>> 212da14f9f67e40dcaac7d94048679c7044a8986

@@ -1,0 +1,10 @@
+%h1 New Product
+%h2 List a fabulous product and get some money.
+
+= simple_form_for @product do |product|
+  = product.input :title
+  = product.input :description
+  = product.input :address
+  = product.input :image
+  = product.input :price
+  = product.button :submit, 'Post'
